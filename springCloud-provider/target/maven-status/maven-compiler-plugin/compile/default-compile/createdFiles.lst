@@ -1,0 +1,5 @@
+org\gene\service\impl\DeptServiceImpl.class
+org\gene\mapper\DeptMapper.class
+org\gene\DeptProvider.class
+org\gene\controller\DeptController.class
+org\gene\service\DeptService.class
